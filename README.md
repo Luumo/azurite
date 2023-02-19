@@ -36,8 +36,6 @@ This command will start the container in detached mode and run it in the backgro
 docker-compose down
 ```
 
-5. The container is 
-
 ## Configuration
 This Docker Compose file uses the following configuration:
 
