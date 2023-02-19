@@ -1,4 +1,4 @@
-# Azure Storage Azurite Docker Compose
+# Azurite emulator docker setup 
 
 This Docker Compose file sets up a container running Azurite, a lightweight server that provides a local emulation of the Azure Blob, Queue, and Table services for development and testing purposes. The container is configured to expose ports 10000, 10001, and 10002 for accessing the different storage services.
 
