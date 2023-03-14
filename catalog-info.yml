@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage
+  description: |
+    Docker script to setup azurite (blob , queue and table service) locally
+  links:
+    - title: Azurite local setup
+      url: https://github.com/Luumo/azurite/
+    - title: Documentation
+      url: https://github.com/Luumo/azurite/blob/main/README.md
+spec:
+  type: tools
+  owner: DDI DPOP
+  lifecycle: experimental
