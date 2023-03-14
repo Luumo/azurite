@@ -11,5 +11,5 @@ metadata:
       url: https://github.com/Luumo/azurite/blob/main/README.md
 spec:
   type: tools
-  owner: DDI DPOP
+  owner: Luan M
   lifecycle: experimental
